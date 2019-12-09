@@ -11,5 +11,5 @@ Using your [submitted wireframe](https://drive.google.com/drive/folders/1VtSMg-O
 * LASTNAME_ALUMNI_style.css
 * LASTNAME_ALUMNI_script.js
 
-Note: Make sure to submit your work by uploading your *.html, *.css, and *.js in your respective Github repositories.
+Note: Make sure to submit your work by uploading your *.html, *.css, and *.js in your respective Github repositories. Kindly verify your link ```<github_name>.github.io``` if it is actually displaying the html,css, and js great. Submit your links (Github URL) to Ms. Caryl Solatorio.
 
